@@ -25,7 +25,7 @@ This project demonstrates how to create an interactive bridge between the physic
 - Jumper Wires
 - Breadboard
 
-## 📋 Software Requirements
+### Software
 
 - [Python 3.6+](https://www.python.org/downloads/)
 - [Minecraft Java Edition](https://www.minecraft.net/en-us/store/minecraft-deluxe-collection-pc)
@@ -85,7 +85,11 @@ To test the project, you can use the following examples:
 - **Access Granted**: Single beep
 - **Access Denied**: Double beep
 
-### 🔗 Useful Links
+## 🕹️ Example
+
+https://github.com/user-attachments/assets/c85a6566-8b06-495d-8a5e-d8cb87174bf5
+
+## 🔗 Useful Links
 - [Minecraft Block IDs Reference](https://www.minecraftinfo.com/idlist.htm)
 - [Java Version Compatibility Fix](https://stackoverflow.com/questions/47112412/unrecognized-vm-option-maxpermsize-512m-when-running-zeppelin)
 - [Minecraft Python API Documentation](https://www.stuffaboutcode.com/p/minecraft-api-reference.html)
